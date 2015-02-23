@@ -20,25 +20,20 @@ Include script *after* the jQuery library:
 
 ## Available options:
 
-afixTo: 	'body', //element(s) you'll tie breakpoint classes to 
+*Note Viewport options are only use if you do not set a default viewport meta tag*
 
-addEvents: 	true, //recommended to always be true this Adds events for onload and onresize
 
-writeOut: 	false, //if you want to write the info to an element on the page (helpful with debugging)
-
-writeTo: 	'#viewporter_debug', // the element you'd be writing to
-
-classPrefix: 	'breakp-', //prefix for classes and breakpoints
-
-breakPoints: 	['320', '480', '640', '720', '960', '1024'], //breakpoints to trigger and change classes (breakpoints must be in lo to high order)
-			
-//the follow is used if we are settings the viewport for you
-
-viewportIni: 	'1.0', //viewport initial scale
-
-viewportMax: 	'1.0', //viewport max scale
-
-viewportScale: 	'0' //viewport user scalable
+| Option        | Default       | Comments  |
+| ------------- |:-------------:| ---------:|
+| afixTo      | 'body' | element(s) you'll tie breakpoint classes to |
+| addEvents      | true      |   recommended to always be true this Adds events for onload and onresize |
+| writeOut | false      |    if you want to write the info to an element on the page (helpful with debugging) |
+| writeTo | '#viewporter_debug'      |    the element you'd be writing to |
+| classPrefix | 'breakp-'      |    prefix for classes and breakpoints |
+| breakPoints | ['320', '480', '640', '720', '960', '1024']      |    breakpoints to trigger and change classes (breakpoints must be in lo to high order) |
+| viewportIni | '1.0'      |    viewport initial scale |
+| viewportMax | '1.0'      |    viewport max scale |
+| viewportScale | '0'      |    viewport user scalable |
 
 
 
