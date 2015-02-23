@@ -1,7 +1,7 @@
 ## Viewporter
 
 
-Viewport is a jQuery plugin that simplifies cross device and browser sizing issues between client width, height, etc. It creates a class tied to which ever element(s) you want holding break points. The purpose is to alleviate the problems negotiating a viewport or actual client width's and provide a simple API for your styling to be able to be uniform across breakpoints.
+Viewporter is a jQuery plugin that simplifies cross device and browser sizing issues between client width, height, etc. It creates a class tied to which ever element(s) you want holding break points. The purpose is to alleviate the problems negotiating a viewport or actual client width's and provide a simple API for your styling to be able to be uniform across breakpoints.
 
 
 It's clean, tested and effective. You'll never need to write media queries again.
