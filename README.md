@@ -7,6 +7,14 @@ Viewporter is a library that simplifies cross device and browser sizing issues b
 - Writes the viewport dimensions to a specified HTML element
 - Adds classes to a specified HTML element, based on the breakpoint values provided
 
+## Installation
+
+You can install the library using npm:
+```javascript
+npm install viewporter-breakpoints
+```
+
+
 ## Options
 
 The following options can be passed when instantiating the `Viewporter` class:

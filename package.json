@@ -1,8 +1,8 @@
 {
-  "name": "viewporter",
+  "name": "viewporter-breakpoints",
   "version": "2.0.0",
   "description": "A Viewport Size and Breakpoint Detection Library for detecting and setting breakpoints",
-  "main": "viewporter.js",
+  "main": "viewporter-breakpoints.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
