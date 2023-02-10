@@ -1,0 +1,29 @@
+{
+  "name": "viewporter",
+  "version": "2.0.0",
+  "description": "A Viewport Size and Breakpoint Detection Library for detecting and setting breakpoints",
+  "main": "viewporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Chris/Viewporter.git"
+  },
+  "homepage": "https://m-chris.github.io/Viewporter/",
+  "keywords": [
+    "viewport",
+    "breakpoint",
+    "detection",
+    "responsive",
+    "web development",
+    "javascript",
+    "library",
+    "CSS"
+  ],
+  "author": "M-Chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M-Chris/Viewporter/issues"
+  }
+}
